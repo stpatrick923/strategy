@@ -4,8 +4,8 @@ using System.Collections;
 public class UserCamera : MonoBehaviour {
 	public float speed = 0.5F;
 	public float sensitivity = 15.0F;
-	private float xEdge = 16F;
-	private float yEdge = 10F;
+	private float xEdge = 32F;
+	private float yEdge = 20F;
 	// Use this for initialization
 	void Start () {
 		
